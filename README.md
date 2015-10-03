@@ -2,8 +2,8 @@
 
 ## TrackStock
 A Swift Application, built using Xcode 7, iOS 9 that lets user keep track of the stock and notifies the user when the limit is reached. This project uses some of the open source project listed at:
-https://github.com/PhamBaTho/BTNavigationDropdownMenu
-https://github.com/Daniel1of1/CSwiftV
+  https://github.com/PhamBaTho/BTNavigationDropdownMenu
+  https://github.com/Daniel1of1/CSwiftV
 
 ![alt tag](https://github.com/arjunkchr/TrackStock/blob/master/Assets/Demo.gif)
 
