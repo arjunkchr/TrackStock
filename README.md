@@ -10,7 +10,7 @@ A Swift Application, built using Xcode 7, iOS 9 that lets user keep track of the
 The resulting notification to the user looks like:
 ![alt tag](https://github.com/arjunkchr/TrackStock/blob/master/Assets/Notification.jpg)
 
-Feel free to clone the github project. The only change required to make everything work is get the quandl API key from https://www.quandl.com and using it within the project for urlPath "https://www.quandl.com/api/v3/datasets/WIKI/" + self.ticker + ".json" + "?api_key=<API_KEY>&limit=1"
+Feel free to clone the github project. The only change required to make everything work is get the quandl API key from https://www.quandl.com and using it within the project for urlPath "https://www.quandl.com/api/v3/datasets/WIKI/" + self.ticker + ".json" + "?api_key=*API_KEY*&limit=1"
 
 
 ## License
