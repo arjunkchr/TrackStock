@@ -1,0 +1,13 @@
+PODS:
+  - BTNavigationDropdownMenu (0.1.8)
+  - CSwiftV (0.0.1)
+
+DEPENDENCIES:
+  - BTNavigationDropdownMenu
+  - CSwiftV
+
+SPEC CHECKSUMS:
+  BTNavigationDropdownMenu: 23403214197d8fb208dd0ad996e3d236748473c9
+  CSwiftV: 672b5d45d474a68ef7f27a495db0532f3379db56
+
+COCOAPODS: 0.38.2
