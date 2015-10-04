@@ -10,7 +10,7 @@ My first Swift Application, built using Xcode 7 for iOS 9 that lets user keep tr
 The resulting notification to the user looks like:
 ![alt tag](https://github.com/arjunkchr/TrackStock/blob/master/Assets/Notification.png)
 
-Feel free to clone/contribute to this project. The only change required to make everything work is get the quandl API key from https://www.quandl.com and using it within the project for urlPath "https://www.quandl.com/api/v3/datasets/WIKI/" + self.ticker + ".json" + "?api_key=*API_KEY*&limit=1" (in ViewController.swift).
+Feel free to clone/contribute to this project. The only change required to make everything work is get the quandl API key from https://www.quandl.com and using it within the project for urlPath "https://www.quandl.com/api/v3/datasets/WIKI/" + self.ticker + ".json" + "?api_key=**API_KEY**&limit=1" (in ViewController.swift).
 
 Please feel free to provide any pointers or loopholes so I can make the app even better.
 
