@@ -16,11 +16,11 @@ Please feel free to provide any pointers or loopholes so I can make the app even
 
 ##TODO
 
-Make the Background fetch more robust so the fetch is based on timer expiration and not when system wishes to invoke it.
-Add a search bar above the navigation title so the user can search through the stocks.
-Add all the ticker symbols around the globe.
-Make NSURL Session more robust and faster.
-Add a Check to determine if wifi or mobile network is available before letting user select a stock.
+1.  Make the Background fetch more robust so the fetch is based on timer expiration and not when system wishes to invoke it.
+2.  Add a search bar above the navigation title so the user can search through the stocks.
+3.  Add all the ticker symbols around the globe.
+4.  Make NSURL Session more robust and faster.
+5.  Add a Check to determine if wifi or mobile network is available before letting user select a stock.
 
 ## License
 TrackStock is available under the MIT License. See the [LICENSE](https://github.com/arjunkchr/TrackStock/blob/master/LICENSE) for details.
