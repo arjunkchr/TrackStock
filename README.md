@@ -10,7 +10,15 @@ A Swift Application, built using Xcode 7, iOS 9 that lets user keep track of the
 The resulting notification to the user looks like:
 ![alt tag](https://github.com/arjunkchr/TrackStock/blob/master/Assets/Notification.png)
 
-Feel free to clone the github project. The only change required to make everything work is get the quandl API key from https://www.quandl.com and using it within the project for urlPath "https://www.quandl.com/api/v3/datasets/WIKI/" + self.ticker + ".json" + "?api_key=*API_KEY*&limit=1"
+Feel free to clone/contribute to this project. The only change required to make everything work is get the quandl API key from https://www.quandl.com and using it within the project for urlPath "https://www.quandl.com/api/v3/datasets/WIKI/" + self.ticker + ".json" + "?api_key=*API_KEY*&limit=1" (in ViewController.swift).
+
+##TODO
+Make the Background fetch more robust so the fetch is based on timer expiration and not when system wishes to invoke it.
+Add a search bar above the navigation title so the user can search through the stocks.
+Add all the ticker symbols around the globe.
+Make NSURL Session more robust and faster.
+Add a Check to determine if wifi or mobile network is available before letting user select a stock.
+
 
 
 ## License
