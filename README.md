@@ -15,6 +15,7 @@ Feel free to clone/contribute to this project. The only change required to make 
 Please feel free to provide any pointers or loopholes so I can make the app even better.
 
 ##TODO
+
 Make the Background fetch more robust so the fetch is based on timer expiration and not when system wishes to invoke it.
 Add a search bar above the navigation title so the user can search through the stocks.
 Add all the ticker symbols around the globe.
