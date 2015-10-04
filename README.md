@@ -1,7 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/arjunkchr/TrackStock/blob/master/LICENSE)
 
 ## TrackStock
-My first wift Application, built using Xcode 7, iOS 9 that lets user keep track of the stock and notifies the user when the limit is reached. This project uses some of the open source project listed below:
+My first Swift Application, built using Xcode 7 for iOS 9 that lets user keep track of the stock and notifies the user when the limit is reached. This project uses some of the open source project listed below:
   1.  https://github.com/PhamBaTho/BTNavigationDropdownMenu
   2.  https://github.com/Daniel1of1/CSwiftV
 
